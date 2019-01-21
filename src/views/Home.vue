@@ -26,6 +26,7 @@
             <el-submenu index="1-1">
               <template slot="title">富文本编辑器</template>
               <el-menu-item index="ckEditor">CK editor</el-menu-item>
+              <el-menu-item index="tinymce">tinymce</el-menu-item>
             </el-submenu>
             <!--分类管理-->
             <el-submenu index="2-1">
